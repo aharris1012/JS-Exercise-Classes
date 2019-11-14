@@ -61,7 +61,7 @@ class Person {
 class Car {
 
 }
-
+class new car 
 /*
   TASK 3
     - Write a Lambdasian class.
